@@ -1,3 +1,0 @@
-# bootsrap
-# bootstrap
-# bootstrap
